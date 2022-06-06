@@ -1,0 +1,47 @@
+.box {
+    background-color:rgb(226, 226, 226);
+    width: 1300px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+.box2 {
+    width: 1300px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 5px;
+    display: flex;
+
+}
+
+.search_bar {
+    width: 400px;
+    display: flex;
+    margin: auto;
+    
+}
+
+.box3 {
+    background-color: rgb(78, 221, 211);
+    width: 448px;
+    margin-right: 2px;
+    padding-top: 10px;
+}
+
+.box4 {
+    background-color:rgb(108, 202, 201);
+    width: 286px;
+    margin-right: 2px;
+    margin-left: 2px;
+}
+
+.box5 {
+    background-color: cadetblue;
+    width: 560px;
+    margin-left: 2px;
+}
